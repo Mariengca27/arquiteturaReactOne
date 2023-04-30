@@ -3,14 +3,7 @@
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        
-        <p>
-         
-         Teste Front
-        </p>
-       
-      </header>
+      <h2>TesteNovo</h2>
     </div>
   );
 }
